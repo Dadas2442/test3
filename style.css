@@ -1,16 +1,17 @@
 
-h1 {
-  font-size: 20px;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
 }
 
-h1, h2, {
-  color: orangered;
+
+h1 {
+    color: #2222ff;
 }
+
 
 p {
-  font-style: italic;
-}
-
-ul {
-  color: gray;
+    font-weight: 700;
 }
